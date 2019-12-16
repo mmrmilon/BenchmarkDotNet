@@ -1,6 +1,8 @@
 # Overview
 Create new console application and install the BenchmarkDotNet NuGet package.
 
+### Build and Run
+![Image of BenchmarkDotNet](screens/buildandrun.png)
 
 ### Result
 

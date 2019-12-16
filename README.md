@@ -10,4 +10,4 @@ Intel Core i3-3120M CPU 2.50GHz (Ivy Bridge), 1 CPU, 4 logical and 2 physical co
   [Host]     : .NET Core 3.1.0 (CoreCLR 4.700.19.56402, CoreFX 4.700.19.56404), X64 RyuJIT
   DefaultJob : .NET Core 3.1.0 (CoreCLR 4.700.19.56402, CoreFX 4.700.19.56404), X64 RyuJIT
 
-![Image of BenchmarkDotNet](screens/output.png)
+![Image of BenchmarkDotNet](https://github.com/mmrmilon/BenchmarkDotNet/screens/output.png)
